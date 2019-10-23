@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP bucharest
 tags: example-tag
 level: 4
+region: Europe
 
 ---
 
